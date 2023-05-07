@@ -1,6 +1,15 @@
 
+@media only screen and (min-width:321px) and (max-width:768px){
+    .attribution {
+   
+        font-size: 10px;
+    
+    }
+    }
+    
 
-
+    
+    
 
 
 
@@ -242,6 +251,7 @@ label:hover {
     justify-content: center;
     margin: 0 auto;
     width: auto;
+    
 
 }
 
