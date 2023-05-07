@@ -1,41 +1,10 @@
 
-@media only screen and (max-width: 375px) {
-    .container{
-        background-color: red;
-        padding: 0;   
-    }      
-   
-}
 
 
-@media only screen and (min-width:321px) and (max-width:768px){
-    .container{
-        background-color: green;
-        
-        
-        
-    }
-    .attribution {
-        display: flex;    
-        justify-content: center;
-        margin: 0 auto;
-        width: auto;
-        font-size: 10px;
-    
-    }
 
-    
-    
-}
 
-@media only screen and (min-width:1400px) {
-    .container{
-        background-color: rgb(255, 0, 200);
-        
-    }
 
-    
-}
+
 
 html{
     
@@ -113,8 +82,6 @@ h1{
     
 
 }
-
-
 
 .caixa-thakyou {
     padding: 20px;
