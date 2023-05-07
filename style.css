@@ -30,9 +30,11 @@
 
 @media only screen and (min-width:769px) {
     .container{
-        background-color: yellow;
+        background-color: rgb(255, 0, 200);
         
     }
+
+    
 }
 
 html{
@@ -111,6 +113,8 @@ h1{
     
 
 }
+
+
 
 .caixa-thakyou {
     padding: 20px;
